@@ -1,0 +1,233 @@
+
+	  body {background-color : #f3f3f2;
+	        color: #064650 ;
+			}
+
+	  a {text-decoration :none;
+	     color :#064650 ;
+		 }
+
+	  h4:hover {text-decoration :underline;
+		      }
+
+
+
+	  .hh {position : relative;
+		   font-size : 15px;
+		   }
+
+	  .h4 {text-decoration : underline;
+	  	   }
+
+      .navcontainer ul{margin: 0;
+					   padding: 0;
+					   list-style-type: none;
+
+	   				   }
+
+	  .navcontainer ul li { display: inline;
+	  					   }
+
+      .top  ul li a {text-align : center;
+	                 position : relative;
+					 top : 3px;
+	                 padding : 20px 10px 20px 10px;
+					 margin : 0px -.5px 0px -.5px;
+				     background-color :#bbded7;
+					 color : #064650;
+					 transition:.5s;
+					 }
+
+	  .top  ul li a:hover {text-align : center;
+	                	   position : relative;
+					       top : 3px;
+	                 	   padding : 20px 10px 20px 10px;
+						   margin : 0px -.5px 0px -.5px;
+				  		   background-color :#e7e7e5 ;
+					       color : black ;
+					       }
+
+	  .linkt {
+	          height:40px;
+			  width : 60px;
+			  padding-top : 0;
+			  background : url('http://i.imgur.com/zb6gGwf.gif');
+			  background-repeat: no-repeat;
+			  background-size : 60px 40px ;
+	  		  }
+
+	  .linkt:hover {
+	          height:40px;
+			  width : 60px;
+			  padding-top : 0;
+			  background : url('http://i.imgur.com/0zRFiMt.gif');
+			  background-repeat: no-repeat;
+			  background-size : 60px 40px;
+	 		  }
+
+	  .linkp {
+	          height:40px;
+			  width : 60px;
+			  padding-top : 0;
+			  background : url('http://i.imgur.com/E2gLt2c.gif');
+			  background-repeat: no-repeat;
+			  background-size : 60px 40px ;
+	 		  }
+
+	  .linkp:hover {
+	          height:40px;
+			  width : 60px;
+			  padding-top : 0;
+			  background : url('http://i.imgur.com/2pDJrAf.gif');
+			  background-repeat: no-repeat;
+			  background-size : 60px 40px;
+	  		  }
+
+	  .linkm {
+	          height:40px;
+			  width : 60px;
+			  padding-top : 0;
+			  background : url('http://i.imgur.com/omYv9MM.gif');
+			  background-repeat: no-repeat;
+			  background-size : 60px 40px ;
+	  		  }
+
+	  .linkm:hover {
+		     	    height:40px;
+			 		width : 60px;
+					padding-top : 0;
+			 		background : url('http://i.imgur.com/1aSY3RA.gif');
+					background-repeat: no-repeat;
+			  		background-size : 60px 40px;
+	  		 	    }
+
+	  .pic {
+		    height : 150px;
+	        width : 100px;
+	  		}
+
+	  .hpic {
+			 height : 195px;
+	         width : 250px;
+	  		}
+
+	  .bplace {
+		       margin-left :100px;
+	           margin-right :100px;
+			   }
+
+	  .hplace {
+		       background-color :#e7e7e5 ;
+	           position : relative;
+			   top : -8px;
+			   right : -8px;
+			   margin-left : -17px;
+	           height :290px;
+			   overflow : hidden;
+			   }
+
+      .bookcontainer {
+           height :170px;
+	       border : 1px  solid lightgray;
+		   border-radius: 25px;
+		   padding-top : 10px;
+		   padding-right : 10px;
+		   margin-top :20px;
+		   margin-bottom : 20px;
+		   transition:.5s;
+
+      	   }
+
+	  .bookcontainer:hover {
+							height :170px;
+							border : 1px  solid lightgray;
+							border-radius: 25px;
+							padding-top : 10px;
+							padding-right : 10px;
+							margin-top :20px;
+							margin-bottom : 20px;
+							background-color :#e7e7e5;
+     						 }
+
+	  .headcontainer1 {
+
+						height :200px;
+						overflow : hidden;
+						padding-top : 30px;
+						padding-right : 20px;
+      					}
+
+	  .headcontainer3 {
+						height :30px;
+						overflow : hidden;
+						margin-top : 15px ;
+						padding-top : 10px;
+						padding-right : 40px;
+						background-color :#bbded7;
+						position : relative;
+						right : -8px;
+						margin-left : -17px;
+		   				}
+
+	  .fplace {
+		  	   background-color :#e7e7e5;
+	           position : relative;
+			   right : -8px;
+			   margin-left : -17px;
+	           margin-top :50px;
+			   margin-bottom :7px;
+			   height :55px;
+			   overflow : hidden;
+			   padding-top : 7px;
+			  }
+
+	  .footcontainer {
+	       background-color: #Bbded7 ;
+           height :45px;
+		   padding-top : 5px;
+		   overflow : hidden ;
+		   padding-right : 10px;
+     	    }
+
+	  .h {
+		  position : absolute;
+		  margin-right: 30px;
+			margin-left :150px;
+	      color: #064650 ;
+		  }
+
+	  .bookpage {
+		        background-color : white ;
+	 			padding-right:50px ;
+				padding-left:50px ;
+				}
+
+
+
+      #center ul {
+		  		  text-align : center;
+				  }
+
+	  #nav1 a:hover{
+		            text-decoration :underline;
+	 				background-color :#bbded7 ;
+	 				}
+
+	 #map a:hover{
+		            text-decoration :underline;
+	 				color :#064650 ;
+	 				}
+
+	 #homebody {
+		 		background-color: #f3f3f2; ;
+	 			}
+	#sky:hover {
+				text-decoration :underline;
+				}
+
+	#quot {
+		    float:left ;
+			margin-top:-30px;
+			margin-left:40px ;
+
+			}
